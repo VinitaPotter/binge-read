@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911');
+@import url('https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here');
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+div .box {
+    height: 112vh;
+    padding: 20px;
+    width: 80%;
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 1.8rem; 
+    min-height: 720px;
+}
+
+div .home {
+    font-family: 'Just Me Again Down Here', cursive;
+}
+
+div .footer {
+    font-size: .9rem;
+    position: relative;
+    bottom: 0;
+    font-family: 'Muli', sans-serif;
+}
